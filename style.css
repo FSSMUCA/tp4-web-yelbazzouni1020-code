@@ -1,0 +1,17 @@
+h2 {
+  font-weight: 700;
+  color: #0d6efd;
+}
+
+.card img {
+  height: auto;
+  object-fit: fill;
+}
+.carousel-inner img {
+    height: 560px;
+    width: 890px;
+    object-fit: contain;
+}
+.container .card img {
+     height: 300px;
+}
